@@ -1,0 +1,23 @@
+{
+    "careers":[
+        {
+            "id":1,
+            "title":"Senior Software Engineer",
+            "salary":20000,
+            "location":"chennai,India"
+        },
+        {
+            "id":2,
+            "title":"Senior Developer",
+            "salary":30000,
+            "location":"madurai,India"
+        },
+        {
+            "id":3,
+            "title":"React Developer",
+            "salary":40000,
+            "location":"coimbatore,India"
+        }
+
+    ]
+}
